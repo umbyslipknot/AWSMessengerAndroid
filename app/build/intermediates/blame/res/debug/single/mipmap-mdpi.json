@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash_icon.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\splash_icon.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\mipmap-mdpi\\splash_icon.png"
+    }
+]

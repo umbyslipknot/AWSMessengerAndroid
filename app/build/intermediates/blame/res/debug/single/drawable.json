@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme1.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme1.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_attachment.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_attachment.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_attachment.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_attachment.png"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_folder.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_folder.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_attachment.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_attachment.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_google.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_google.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me_message_bg.9.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\me_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_facebook.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_facebook.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_folder.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_folder.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme2.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme2.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me_message_bg.9.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\me_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_dark.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_ratingbar_full_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_ratingbar_full_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme4.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme4.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_text_edit.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\rect_text_edit.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_add.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme3.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme3.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_system_tools.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\perm_group_system_tools.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_text_edit.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\rect_text_edit.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\rect_text_edit.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\rect_text_edit.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock_power_off.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_lock_power_off.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bottom_border_set.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\top_bottom_border_set.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_system_tools.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\perm_group_system_tools.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme2.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme2.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_add.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_folder.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_folder.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_internal_bg.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bottom_border_set.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\top_bottom_border_set.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_add.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_add.png"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_spinner_textfield_background_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme3.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme3.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_selector.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_white_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\other_message_bg.9.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\other_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_send_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_send_background.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_tab_indicator_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_edit_text_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme2.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme2.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_facebook.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_facebook.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\user.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\user.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme4.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme4.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme1.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme1.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_switch_thumb_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\other_message_bg.9.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\other_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_google.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_google.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\top_bottom_border_set.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\top_bottom_border_set.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_borderless_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\me_message_bg.9.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\me_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_thumb_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_radio_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock_power_off.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_lock_power_off.png"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_round.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_blue_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme4.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme4.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\other_message_bg.9.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\other_message_bg.9.png"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_google.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_google.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_textfield_search_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_login_silver_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_login_silver_background.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_check_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_background.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progress.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\progress.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_holo_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme3.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme3.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_text_dark.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\7.8.0\\res\\drawable\\common_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\back.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\back.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_lock_power_off.png",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_lock_power_off.png"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_blue_bg_selector.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\messenger_button_blue_bg_selector.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_item_background_holo_light.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\com_facebook_button_like_background.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.6.0\\res\\drawable\\com_facebook_button_like_background.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_cab_background_top_material.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_theme1.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_theme1.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_button_facebook.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\selector_button_facebook.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\common_signin_btn_icon_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\53811e3ef605529459d8c7e1b8d1b50fadb03073\\output\\res\\drawable\\common_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\perm_group_system_tools.png",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\perm_group_system_tools.png"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_list_selector_background_transition_holo_light.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\ic_menu_compose.png",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\drawable\\ic_menu_compose.png"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\messenger_button_white_bg_round.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\ec20b22ee3cd2e04ea704447733fb3b5befba847\\output\\res\\drawable\\messenger_button_white_bg_round.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_dark.xml",
+        "source": "C:\\Users\\umberto.actis\\.android\\build-cache\\f021d2ac56f0bfc90a278d1968a4feb4aaf7659f\\output\\res\\drawable\\abc_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_dialog_material_background_light.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_seekbar_track_material.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.0\\res\\drawable\\abc_seekbar_track_material.xml"
+    }
+]

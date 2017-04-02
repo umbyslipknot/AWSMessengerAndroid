@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/denhills/Desktop/AWSMessengerAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/ic_launcher.png",
+        "source": "/Users/denhills/Desktop/AWSMessengerAndroid/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/denhills/Desktop/AWSMessengerAndroid/app/build/intermediates/res/merged/debug/mipmap-hdpi-v4/splash_icon.png",
+        "source": "/Users/denhills/Desktop/AWSMessengerAndroid/app/src/main/res/mipmap-hdpi/splash_icon.png"
+    }
+]

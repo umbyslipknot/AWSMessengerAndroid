@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "D:\\L\\A\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\content_delivery_paths.xml",
+        "source": "D:\\L\\A\\AWSMessengerAndroid\\app\\src\\main\\res\\xml\\content_delivery_paths.xml"
+    },
+    {
+        "merged": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\content_delivery_paths.xml",
+        "source": "D:\\Users\\denhills\\Desktop\\AWSMessengerAndroid\\app\\src\\main\\res\\xml\\content_delivery_paths.xml"
+    },
+    {
+        "merged": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\build\\intermediates\\res\\merged\\debug\\xml\\content_delivery_paths.xml",
+        "source": "D:\\Lavoro\\Android\\AndroidStudioProjects\\AWSMessengerAndroid\\app\\src\\main\\res\\xml\\content_delivery_paths.xml"
+    }
+]
